@@ -155,8 +155,6 @@ modalCart.addEventListener('click', function(e){
 	const target = e.target;
 	if(target.classList.contains('overlay')){
 		closeModal();
-		git config --global user.email "you@example.com"
-		git config --global user.name "Your Name"
 	}
 
 	if(target.classList.contains('modal-close')){
