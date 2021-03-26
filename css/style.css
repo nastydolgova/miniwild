@@ -511,3 +511,8 @@ button {
     }
 
 }
+
+.btn-delete{
+    background-color: tomato;
+    ;
+}
